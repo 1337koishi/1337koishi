@@ -1,5 +1,7 @@
 ## Hi.
 
+<img src="koishi-dance.gif">
+
 About me:
 ```txt
 * a Touhou Project fan,
